@@ -1,6 +1,9 @@
 # Synthetic Data Cluster Generator
 This python program is a Cluster Generator that synthetically creates three dimensional data points in clusters. It is designed to be used to validate data clustering algorithms.
 
+**Repo URL:**
+https://github.com/jrexliao/Cluster-Generator
+
 **Requirements**
 1. Python v2.7
 
